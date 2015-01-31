@@ -37,13 +37,13 @@ A few notes about the sections above:
 
 == Screenshots ==
 
-1. Activate the plugin.
-2. Socials Setting General Settings.
-3. Socials Setting Social Networking.
-4. Socials Setting Style Settings.
-5. Socials Setting Position Settings.
-6. Plugin Overview 1.
-7. Plugin Overview 2.
+1. Activate the plugin
+2. Socials Setting General Settings
+3. Socials Setting Social Networking
+4. Socials Setting Style Settings
+5. Socials Setting Position Settings
+6. Plugin Overview 1
+7. Plugin Overview 2
 
 == Upgrade Notice ==
 
